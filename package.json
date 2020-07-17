@@ -1,6 +1,6 @@
 {
   "name": "ding-image",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "存放所需的图片",
   "main": "index.js",
   "scripts": {
