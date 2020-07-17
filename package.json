@@ -1,0 +1,19 @@
+{
+  "name": "ding-image",
+  "version": "1.0.0",
+  "description": "存放所需的图片",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ken-dingxj/ding-image.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ken-dingxj/ding-image/issues"
+  },
+  "homepage": "https://github.com/ken-dingxj/ding-image#readme"
+}
